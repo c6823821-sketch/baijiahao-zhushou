@@ -1,1 +1,1 @@
-{"version": "1.2.17", "url": "https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.17/default.exe", "notes": "发布/生成彻底解耦；发布停止不再误停生成；视频日志不再混发布；生成页按钮放右侧"}
+{"version": "1.2.18", "url": "https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.18/default.exe", "notes": "修复Pexels/Pixabay因UA被Cloudflare拦截导致AI文字成片搜空、成片失败(补浏览器UA)"}
