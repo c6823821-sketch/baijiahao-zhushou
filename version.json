@@ -1,1 +1,1 @@
-{"version": "1.2.18", "url": "https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.18/default.exe", "notes": "修复Pexels/Pixabay因UA被Cloudflare拦截导致AI文字成片搜空、成片失败(补浏览器UA)"}
+{"version": "1.2.19", "url": "https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.19/default.exe", "notes": "v1.2.19 客户机绿包版：脚本自跑(零python)、资源全部自动定位(不再写死开发机路径)、修复Pexels被拦"}
