@@ -1,1 +1,1 @@
-{"notes":"v1.2.20：修复成片失败误判/缺画面整条作废/无口播不删条/标题井号规则/每轮250条分批爬；软件可自动定位包内运行环境；缺组件会明确提示找卖家要哪个组件包。","version":"1.2.20","url":"https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.20/default.exe"}
+{"url":"https://github.com/c6823821-sketch/baijiahao-zhushou/releases/download/v1.2.21/default.exe","version":"1.2.21","notes":"v1.2.21：修复客户机没有开发者 C 盘 Python 路径时，头条 CK 已配置却抓不到新视频；改为头条 CK 接口优先、浏览器仅在需要且组件可用时兜底；运行 Python 自动从包内 runtime 定位；已实机验证无浏览器运行环境仍可抓到真实视频。"}
